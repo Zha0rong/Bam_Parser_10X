@@ -15,5 +15,8 @@
  Sample information: Donor1OC
  
  https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM4483339
+ 
+ The bam files are subsetted and only the first 100k lines are included.
+ 
 ## Issues:
  Caveat: the subprocess function used in the script may be broken in python 3.7.x.
